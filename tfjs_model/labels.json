@@ -1,1 +1,1 @@
-{"labels": ["backward", "forward", "left", "right", "stop"], "img_size": 224}
+{"labels": ["home", "lift", "pick", "place", "release"], "img_size": 224}
